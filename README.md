@@ -1,4 +1,4 @@
-# RedBook
+# XBook
 
 Everyday, we work on ideas that are highly complex and solve problems that are still a challenge to the entire industry. To do that kind of work, we understand the importance of having an open, inclusive and collaborative culture. Over the past few months, we’ve invested a lot of time in exploring and experimenting different areas where we could innovate in terms of creating the most effective company culture. 
 
