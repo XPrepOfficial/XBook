@@ -1,4 +1,4 @@
-### Acknowledgement of Receipt of Employee RedBook
+### Acknowledgement of Receipt of Employee XBook
 
 I hereby acknowledge that I have received the XPrep Employee Book and I confirm that I have read all the documents in the XBook to understand its provisions. I further understand that I can ask any clarification about any provisions I have to the founders of the company.
 
