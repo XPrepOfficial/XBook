@@ -1,6 +1,6 @@
 ### Sabbatical
 
-After every 5 years of working at Skcript, team members are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.
+After every 5 years of working at XPrep, team members are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.
 
 During this sabbatical, they should work on passion projects -- something outside the scope of their normal work that is interesting and exciting to them. This could be anything from creating something that the world needs and all the support will be provided by the company.
 
