@@ -1,6 +1,6 @@
 ### Reporting Hierarchy
 
-We believe in a flat hierarchy. But to split and handle operations, the CEO of the company takes the responsibility of the entire company. Everyone working at XPrep Engineering Team should report to Bikash Dash (VP of Engineering). Our goal of this particular relationship is to provide support and guidance to the team members. This goal is achieved by holding regular meetings, one-to-ones, reviews and much more. 
+We believe in a flat hierarchy. But to split and handle operations, the CEO of the company takes the responsibility of the entire company. Everyone working at XPrep Engineering Team should report to Bikash Dash (CTO). Our goal of this particular relationship is to provide support and guidance to the team members. This goal is achieved by holding regular meetings, one-to-ones, reviews and much more. 
 
 While we do not do any official performance reviews, we believe that one-to-ones will give us better idea about the targets that you’ve achieved and other important aspects of your work at XPrep. Feedbacks about your performance are usually instant.
 
