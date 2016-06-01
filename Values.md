@@ -1,4 +1,4 @@
-### Skcript Core Values
+### XPrep Core Values
 
 **Move Fast.**
 Move quickly. Do not lag. Once a decision is made, execute on it as fast as possible. Ship quickly. Save words. Instead, implement and measure. Perfect is the enemy of good.
