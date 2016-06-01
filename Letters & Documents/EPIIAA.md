@@ -1,8 +1,8 @@
 # Employee Proprietary Information and Inventions Assignment Agreement (EPIIAA)
 
-**Skcript**
+**XPrep**
 
-THIS EMPLOYEE PROPRIETARY INFORMATION AND INVENTIONS ASSIGNMENT AGREEMENT (this "Agreement"), is made by and between Skcript (the “Company”), and the undersigned individual (“Employee”). In consideration of Employee’s employment with the Company, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Employee hereby agrees to the following restrictions placed on Employee’s use and development of proprietary information, technology, ideas and inventions:
+THIS EMPLOYEE PROPRIETARY INFORMATION AND INVENTIONS ASSIGNMENT AGREEMENT (this "Agreement"), is made by and between XPrep (the “Company”), and the undersigned individual (“Employee”). In consideration of Employee’s employment with the Company, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Employee hereby agrees to the following restrictions placed on Employee’s use and development of proprietary information, technology, ideas and inventions:
 
 1. Proprietary Information. 
 
@@ -127,7 +127,7 @@ Signature: ________________________
 
 **COMPANY PROPRIETARY INFORMATION**
 
-This is to certify that I, the undersigned, have returned all personal property of Skcript (the "Company"), including, without limitation, all source code listings, books, manuals, records, models, drawings, reports, notes, contracts, lists, blueprints, and other documents and materials, Proprietary Information, and equipment furnished to or prepared by me in the course of or incident to my employment with the Company, and that I did not make or distribute any copies of the foregoing.
+This is to certify that I, the undersigned, have returned all personal property of XPrep (the "Company"), including, without limitation, all source code listings, books, manuals, records, models, drawings, reports, notes, contracts, lists, blueprints, and other documents and materials, Proprietary Information, and equipment furnished to or prepared by me in the course of or incident to my employment with the Company, and that I did not make or distƒribute any copies of the foregoing.
 
 
 
