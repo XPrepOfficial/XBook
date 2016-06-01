@@ -2,9 +2,9 @@
 
 #### Email Privacy
 
-Email messages, including attachments, sent and received from a Skcript's email address are the property of Skcript. The company reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your Skcript's official email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
+Email messages, including attachments, sent and received from a XPrep's email address are the property of XPrep. The company reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your XPrep's official email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
 
-#### Use of Skcript Email for Personal Email
+#### Use of XPrep Email for Personal Email
 
 Our email system is intended for official Company business. If you send personal messages through the Company’s email address, you must exercise discretion as to the number and type of messages you send. You must also ensure that your personal use of the email system does not interfere in any way with your job duties or performance.
 
