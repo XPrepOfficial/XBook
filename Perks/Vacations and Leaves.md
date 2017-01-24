@@ -1,8 +1,8 @@
 ### Vacation and Leaves
 
-We understand that taking time off from work, and recharging yourself is very critical to do the most challenging work at Skcript. So you are free to take an off under these circumstances, in addition to the recognized list of holidays.
+We understand that taking time off from work, and recharging yourself is very critical to do the most challenging work at XPrep. So you are free to take an off under these circumstances, in addition to the recognized list of holidays.
 
-As a full-time team member of Skcript, you are free to take 3 weeks (15 days) of paid vacation every year that calculates to 1.25 of a day per month of work. But to make sure the business runs even during your vacation, you are required to schedule your vacation a week in advance, and get it approved from the founding team of Skcript. Once approved, we will communicate with the entire team.
+As a full-time team member of XPrep, you are free to take 3 weeks (15 days) of paid vacation every year that calculates to 1.25 of a day per month of work. But to make sure the business runs even during your vacation, you are required to schedule your vacation a week in advance, and get it approved from the founding team of XPrep. Once approved, we will communicate with the entire team.
 
 Everyone also accrue **1 hour of sick leave for every 30 hours** of work, but cannot accrue more than 5 days of sick leave.
 
