@@ -79,7 +79,7 @@ Signature: ________________________
 
 1.	Proprietary Information.
 
-Except as set forth below, Employee acknowledges that at this time (or, in the event this schedule is being executed subsequent to the commencement of Employee’s employment by the Company, at the time of commencement of Employee’s employment by the Company) Employee knows nothing about the business or Proprietary Information of Skcript (the "Company"), other than information Employee has learned from the Company in the course of being hired:  	
+Except as set forth below, Employee acknowledges that at this time (or, in the event this schedule is being executed subsequent to the commencement of Employee’s employment by the Company, at the time of commencement of Employee’s employment by the Company) Employee knows nothing about the business or Proprietary Information of XPrep (the "Company"), other than information Employee has learned from the Company in the course of being hired:  	
 
 ***
 ***
